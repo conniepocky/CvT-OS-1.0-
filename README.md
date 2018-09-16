@@ -1,2 +1,2 @@
-# CvT-Os-1.0-
+# CvT-Os-1.2
 This a free operating system!
